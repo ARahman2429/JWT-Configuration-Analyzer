@@ -57,6 +57,23 @@ Analyze Signature
 
 Generate Security Report
 
+---
+
+## Screenshots
+
+### JWT Extraction from OWASP Juice Shop
+
+![JWT Extraction](docs/screenshots/jwt_extraction.png)
+
+### Tool Execution
+
+![Tool Execution](docs/screenshots/tool_execution.png)
+
+### Security Findings Output
+
+![Security Findings](docs/screenshots/findings_output.png)
+
+
 ## Example Usage
 
 ```bash
