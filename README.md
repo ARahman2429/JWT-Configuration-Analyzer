@@ -94,7 +94,7 @@ JWT-Configuration-Analyzer/
     ├── valid_jwt.txt
     └── invalid_jwt.txt
 
-
+```
 ## Example Usage
 
 ```bash
