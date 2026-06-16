@@ -73,6 +73,27 @@ Generate Security Report
 
 ![Security Findings](docs/screenshots/findings_output.png)
 
+## Repository Structure
+
+```text
+JWT-Configuration-Analyzer/
+│
+├── agent.py
+├── analyzer.py
+├── cli.py
+├── constants.py
+├── utils.py
+│
+├── requirements.txt
+├── README.md
+│
+├── docs/
+│   └── screenshots/
+│
+└── examples/
+    ├── valid_jwt.txt
+    └── invalid_jwt.txt
+
 
 ## Example Usage
 
