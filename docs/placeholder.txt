@@ -1,0 +1,1 @@
+This directory contains project documentation, workflow diagrams, and architecture images for the JWT Configuration Analyzer.
